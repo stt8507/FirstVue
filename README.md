@@ -1,6 +1,6 @@
 # ello
 
-> exampl
+> 使用npm run dev 啟動
 
 ## Build Setup
 
